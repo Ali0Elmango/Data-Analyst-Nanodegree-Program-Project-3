@@ -1,6 +1,4 @@
 # (Prosper Credit Loan)
-## by (Abiola Adeyinka)
-
 
 ## Dataset
 
